@@ -1,0 +1,29 @@
+name: coder_app
+description: "Self-correcting RAG Code Generation Agent - Gemini-style UI"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  google_fonts: ^6.2.1
+  flutter_highlight: ^0.7.0
+  flutter_markdown: ^0.7.3
+  animations: ^2.0.11
+  flutter_spinkit: ^5.2.1
+  provider: ^6.1.2
+  shared_preferences: ^2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,5 @@
+Analyzing coder_app...                                          
+
+   info - Use 'const' with the constructor to improve performance - lib\screens\home_screen.dart:243:21 - prefer_const_constructors
+
+1 issue found. (ran in 4.9s)
